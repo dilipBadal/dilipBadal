@@ -4,7 +4,8 @@ I am Dilip Badal, currently pursing my degree for Bachelor of Computer Applicati
 
 [![Linkedin Badge](https://img.shields.io/badge/-dilip33-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dilip-badal-aab9a5243/)](https://www.linkedin.com/in/dilip-badal-aab9a5243/)
 [![Gmail Badge](https://img.shields.io/badge/-dilipbadal33@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dilipbadal33@gmail.com)](mailto:dilipbadal33@gmail.com)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)]
+(https://stackoverflow.com/users/19876643/dilip)
 
 
 ## ⚡ Technologies
