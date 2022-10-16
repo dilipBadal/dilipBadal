@@ -4,6 +4,7 @@ I am Dilip Badal, currently pursing my degree for Bachelor of Computer Applicati
 
 [![Linkedin Badge](https://img.shields.io/badge/-dilip33-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dilip-badal-aab9a5243/)](https://www.linkedin.com/in/dilip-badal-aab9a5243/)
 [![Gmail Badge](https://img.shields.io/badge/-dilipbadal33@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dilipbadal33@gmail.com)](mailto:dilipbadal33@gmail.com)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 
 ## ⚡ Technologies
@@ -16,6 +17,5 @@ I am Dilip Badal, currently pursing my degree for Bachelor of Computer Applicati
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
