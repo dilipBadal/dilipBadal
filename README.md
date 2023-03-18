@@ -3,7 +3,7 @@
 I am Dilip Badal, currently pursing my degree for Bachelor of Computer Applications at the Rjs First Grade College. I'm interested in Ai, machine learning and game development and I love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-dilip33-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dilip-badal-aab9a5243/)](https://www.linkedin.com/in/dilip-badal-aab9a5243/)
-[![Gmail Badge](https://img.shields.io/badge/-dilipbadal33@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:workwithdilip1@gmail.com)](mailto:workwithdilip1@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-workwithdilip1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:workwithdilip1@gmail.com)](mailto:workwithdilip1@gmail.com)
 
 
 
