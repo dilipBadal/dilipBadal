@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Dilip Badal, currently pursing my degree for Bachelor of Computer Applications. I'm interested in Arificial Intelligence, game development and Web Designing. I love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am Dilip Badal, I am a software engineer. I'm into AI, Game development and Web Designing. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-dilip33-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dilip-badal-aab9a5243/)](https://www.linkedin.com/in/dilip-badal-aab9a5243/)
 [![Gmail Badge](https://img.shields.io/badge/-workwithdilip1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:workwithdilip1@gmail.com)](mailto:workwithdilip1@gmail.com)
@@ -19,3 +19,5 @@ I am Dilip Badal, currently pursing my degree for Bachelor of Computer Applicati
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![React JS])(https://img.shields.io/badge/react-javascript)
+![Node JS](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
