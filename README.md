@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Dilip Badal, I am a software engineer. I'm into AI, Game development and Web Designing. Find out more about me & feel free to connect with me here:
+I am Dilip Badal, I am a software engineer. I'm into AI, Game development and Web Development. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-dilip33-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dilip-badal-aab9a5243/)](https://www.linkedin.com/in/dilip-badal-aab9a5243/)
 [![Gmail Badge](https://img.shields.io/badge/-workwithdilip1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:workwithdilip1@gmail.com)](mailto:workwithdilip1@gmail.com)
